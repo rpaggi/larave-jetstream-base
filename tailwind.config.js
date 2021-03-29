@@ -15,6 +15,9 @@ module.exports = {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
             },
         },
+        boxShadow:{
+            'menu-right': '8px 2px 17px -6px rgba(0,0,0,0.24);'
+        }
     },
 
     variants: {
